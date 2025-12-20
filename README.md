@@ -1,2 +1,12 @@
-# mini-project4
-Dalam project kali ini saya membuat sebuah kalkulator sederhana menggunakan html, css dan JavaScript
+# Project Name
+A simple calculator project built using HTML, CSS, and JavaScript.
+
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+## 📚 What I Learned
+- Basic error handling in JavaScript
+
+
